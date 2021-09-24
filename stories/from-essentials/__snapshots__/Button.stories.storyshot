@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Example/Button Large 1`] = `
+<button
+  class="button button--large button--secondary"
+  type="button"
+/>
+`;
+
+exports[`Storyshots Example/Button Primary 1`] = `
+<button
+  class="button button--medium button--primary"
+  type="button"
+/>
+`;
+
+exports[`Storyshots Example/Button Secondary 1`] = `
+<button
+  class="button button--medium button--secondary"
+  type="button"
+/>
+`;
+
+exports[`Storyshots Example/Button Small 1`] = `
+<button
+  class="button button--small button--secondary"
+  type="button"
+/>
+`;
